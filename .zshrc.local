@@ -1,0 +1,7 @@
+alias tmux="TERM=screen-256color-bce tmux"
+# export TERM="term-256color"
+
+# ZSH_THEME="agnoster"
+#
+
+export SPOTLIGHT_EMAIL="andrew@spotlight.fm"

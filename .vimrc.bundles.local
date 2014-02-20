@@ -1,0 +1,24 @@
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'digitaltoad/vim-jade'
+Bundle 'nathanaelkane/vim-indent-guides'
+Bundle 'Shougo/neocomplcache' 
+Bundle 'Shougo/neosnippet' 
+Bundle 'Shougo/vimshell'
+Bundle 'mattn/emmet-vim'
+Bundle 'scrooloose/nerdtree'
+Bundle 'jiangmiao/auto-pairs'
+
+Bundle 'othree/html5.vim'
+Bundle 'jelera/vim-javascript-syntax'
+
+Bundle 'terryma/vim-smooth-scroll'
+
+Bundle 'wavded/vim-stylus'
+" Bundle 'mileszs/ack'
+" ColorScheme Switcher
+" Bundle 'xolox/vim-misc'
+" Bundle 'xolox/vim-colorscheme-switcher'
+
+
+
+
