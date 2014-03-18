@@ -5,3 +5,6 @@ alias tmux="TERM=screen-256color-bce tmux"
 #
 
 export SPOTLIGHT_EMAIL="andrew@spotlight.fm"
+
+PATH=$PATH:/Applications/VirtualBox.app/Contents/MacOS/
+export PATH

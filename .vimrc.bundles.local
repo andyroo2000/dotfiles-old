@@ -19,6 +19,6 @@ Bundle 'wavded/vim-stylus'
 " Bundle 'xolox/vim-misc'
 " Bundle 'xolox/vim-colorscheme-switcher'
 
-
+Bundle 'vim-scripts/php.vim--Hodge'
 
 

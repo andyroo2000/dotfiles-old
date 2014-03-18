@@ -52,8 +52,8 @@ set smarttab              " use tabs at the start of a line, spaces elsewhere
 set autowrite
 
 set t_Co=256              " enable 256-color mode.
-set background=dark
-colorscheme obsidian
+set background=light
+colorscheme twilight256
 
 " toggle indentation settings for pasting into Vim
 set pastetoggle=<F2>
@@ -306,3 +306,9 @@ noremap <silent> <c-u> :call smooth_scroll#up(&scroll, 0, 2)<CR>
 noremap <silent> <c-d> :call smooth_scroll#down(&scroll, 0, 2)<CR>
 noremap <silent> <c-b> :call smooth_scroll#up(&scroll*2, 0, 4)<CR>
 noremap <silent> <c-f> :call smooth_scroll#down(&scroll*2, 0, 4)<CR>
+
+
+" PHP settings
+let php_sql_query = 1
+let php_htmlInStrings = 1
+let php_noShortTags = 1
